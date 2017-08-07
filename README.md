@@ -1,7 +1,8 @@
-![png](scatter.png)
-![png](scatter_.png)
 
 # Estatística descritiva com Pandas (Python)
+
+![png](scatter.png)
+![png](scatter_.png)
 
 Implementação no contexto de Data Science utilizando a biblioteca Pandas (Python)
 
